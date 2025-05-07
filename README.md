@@ -36,7 +36,7 @@ others in the community would benefit from 🤗
 
 ## Philosophy of Mechanistic Interpretability
 
-**Mathematical Philosophy of Explanations in MechInterp, Ayonrinde & Jaburi (2025)**
+🌟 **Mathematical Philosophy of Explanations in MechInterp, Ayonrinde & Jaburi (2025)**
 [pdf](https://arxiv.org/pdf/2505.00808)
 
 > Details a foundation for MechInterp research through an explanatory and information-theoretic lens. Also outlines a technical definition for MechInterp and the limits which follow from this project.
@@ -65,19 +65,19 @@ others in the community would benefit from 🤗
 
 ## Core Interpretability
 
-**Mechanistic Interpretability for AI Safety--A Review, Amsterdam: Bereska & Gavves (2024)**
+🌟 **Mechanistic Interpretability for AI Safety--A Review, Amsterdam: Bereska & Gavves (2024)**
 [pdf](https://arxiv.org/pdf/2404.14082)
 
 > A survey paper of Mechanistic Interpretability techniques and practises. Very well illustrated.
 
-**Zoom In: An Introduction to Circuits, OpenAI: Olah et al (2020)**
+🌟 **Zoom In: An Introduction to Circuits, OpenAI: Olah et al (2020)**
 [html](https://distill.pub/2020/circuits/zoom-in/)
 
 > Arguably the first paper to outline the core ideas of Mechanistic Interpretability.
 
 ## Causal Abstractions
 
-**Causal abstraction: A theoretical foundation for mechanistic interpretability, Stanford: Geiger et al (2023)**
+🌟 **Causal abstraction: A theoretical foundation for mechanistic interpretability, Stanford: Geiger et al (2023)**
 [pdf](https://arxiv.org/pdf/2301.04709)
 
 > The canonical paper which provides the modern Causal Abstractions foundation for Mechanistic Interpretability.
