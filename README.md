@@ -42,7 +42,7 @@ others in the community would benefit from 🤗
 > Details a foundation for MechInterp research through an explanatory and information-theoretic lens. Also outlines a technical definition for MechInterp and the limits which follow from this project.
 
 **Explanatory Virtues Framework, Ayonrinde & Jaburi (2025)**
-[pdf](https://arxiv.org/pdf/2505.00808)
+[pdf](https://arxiv.org/pdf/2505.01372)
 
 > An application of Theory Choice to explanations in Mechanistic Interpretability from the Bayesian, Kuhnian, Deutschian, and Nomological lenses.
 
