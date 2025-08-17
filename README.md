@@ -171,7 +171,12 @@ Hypothesis testing the circuit hypothesis in LLMs -->
 
 ## Interpreting Computations
 
-<!-- 🌟SPD (see also APD)/SEP?/MOLT -->
+🌟 **Stochastic Parameter Decomposition, Goodfire: Bushnaq et al (2025)**
+[pdf](https://arxiv.org/pdf/2506.20790)
+
+> Where much interpretability has focused on understanding representations, true Mechanistic Interpretability must understand step-by-step mechanisms which includes understanding Computations. SPD is a core step in this direction and a large improvement upon the earlier [APD](https://arxiv.org/abs/2501.14926) method. Their approach to understanding Computations fit under the umbrella of (Linear) Parameter Decomposition and takes seriously interpretability in weight space (computations) rather than in activation space (representations).
+
+<!-- SEP?/MOLT -->
 
 ## Causal Abstractions
 
