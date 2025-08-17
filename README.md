@@ -112,7 +112,19 @@ others in the community would benefit from 🤗
 
 ## General Philosophy of Science
 
-<!-- Kuhn, Popper, 🌟 Deutsch -->
+**Structure of Scientific Revolutions, Kuhn (1962)**
+[pdf](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf)
+
+> The classic Kuhn text which influenced much research in the Philosophy of Science. He introduces the "paradigms" view of Science of cycles of *Normal Science --> Anomalies --> Crisis --> Paradigm Shift --> New Normal Science*. Researchers understanding how to best support MechInterp may understand their work as contributing to Normal Science (e.g. optimising circuit-finding algorithms or SAEs), pointing out anomalies and inconsistencies which can cause a crisis (e.g. understanding non-linearly represented features) and then using this new evidence to create new paradigms. See also the SEP article [here](https://plato.stanford.edu/entries/thomas-kuhn/)
+
+🌟 **The Beginning of Infinity, Deutsch (2011)**
+[pdf](https://avalonlibrary.net/ebooks/David%20Deutsch%20-%20The%20Beginning%20of%20Infinity%20-%20Explanations%20that%20Transform%20the%20World.pdf)
+
+> An incredible book on the Philosophy of Science and Epistemology by one of the leading Quantum Computing researchers of our time. The book's subtitle is "Explanations that Transform the World" which is as much a pitch for interpretability as for the natural sciences in general. In particular Deutsch introduces the concept that good explanations are hard-to-vary (see also [here](https://arxiv.org/abs/2505.01372)) and emphasises that what we seek for science is not merely predictive apparatus but falsifiable explanatory theories.
+
+<!-- Popper -->
+
+<!-- Thiel, Zero To One -->
 
 ## Core Interpretability
 
