@@ -17,6 +17,8 @@ A curated reading list for researchers in the Philosophy of Interpretability.
 - [Interpreting Computations](#interpreting-computations)
 - [Causal Abstractions](#causal-abstractions)
 - [Limits of Interpretability](#limits-of-interpretability)
+- [Information Theory and Complexity Theory](#information-theory-and-complexity-theory)
+- [Singular Learning Theory](#singular-learning-theory)
 - [Human Studies in Interpretability](#human-studies-in-interpretability)
 - [Neuroscience and Cognitive Science](#neuroscience-and-cognitive-science)
 - [The Strange Science](#the-strange-science)
@@ -147,7 +149,7 @@ others in the community would benefit from 🤗
 ## Evaluating Explanations
 
 <!-- Compact proofs of model performance via mechanistic interpretability, MIB,
-Hypothesis testing the circuit hypothesis in LLMs -->
+Hypothesis testing the circuit hypothesis in LLMs. -->
 
 **Explanatory Virtues Framework, Ayonrinde & Jaburi (2025)**
 [pdf](https://arxiv.org/pdf/2505.01372)
@@ -161,13 +163,17 @@ Hypothesis testing the circuit hypothesis in LLMs -->
 
 > An information-theoretic framework for principled unsupervised feature extraction using Interpreter Models (here SAEs).
 
+🌟 **Towards Monosemanticity, Anthropic: Bricken et al (2023)**
+[pdf](https://transformer-circuits.pub/2023/monosemantic-features)
+
+> The canonical paper on using Sparse Autoencoders to understand the representations of LLMs which sparked a research field. Clear explanations and compelling visuals.
+
 🌟 **Operationalising Representation in Natural Language Processing, Harding (2023)**
 [pdf](https://www.journals.uchicago.edu/doi/abs/10.1086/728685?journalCode=bjps)
 
 > A translation of the core ideas of Representation in the philosophy literature into the NLP/ML framework. Provides the 3 criteria for Representation: Use, Information and Misrepresentation.
 
-
-<!-- 🌟 Towards Monosemanticity, Projecting assumptions (Demba) -->
+<!-- Projecting Assumptions (Demba) -->
 
 ## Interpreting Computations
 
@@ -183,7 +189,7 @@ Hypothesis testing the circuit hypothesis in LLMs -->
 🌟 **Causal abstraction: A theoretical foundation for mechanistic interpretability, Stanford: Geiger et al (2023)**
 [pdf](https://arxiv.org/pdf/2301.04709)
 
-> The canonical paper which provides the modern Causal Abstractions foundation for Mechanistic Interpretability.
+> The canonical paper which provides the modern Causal Abstractions foundation for Mechanistic Interpretability. This theory is usefully in the background of most interpretability work.
 
 <!-- Pearl (Causality), Lewis? -->
 
@@ -198,13 +204,18 @@ Hypothesis testing the circuit hypothesis in LLMs -->
 Everything, everywhere, all at once: Is mechanistic interpretability identifiable?
 -->
 
-<!-- ## Information Theory and Complexity Theory -->
+## Information Theory and Complexity Theory
+
+See also [MDL-SAEs](https://arxiv.org/pdf/2410.11179)
 
 <!-- Classic texts, Nora's paper -->
 
-<!-- ## Singular Learning Theory -->
+## Singular Learning Theory
 
-<!-- Position paper -->
+**You Are What You Eat, Timaeus: Lehalleur et al (2025)**
+[pdf](https://arxiv.org/pdf/2502.05475)
+
+> The authors argue that core to interpretability is understanding how structure in the data distribution leads to structure in the models and how such structure gives rise to the generalisation power of neural networks.
 
 ## Human Studies in Interpretability
 
@@ -253,12 +264,22 @@ Everything, everywhere, all at once: Is mechanistic interpretability identifiabl
 
 ## Other
 
+🌟 **MechInterp is not pre-paradigmatic, Goodfire: Sharkey (2025)**
+[html](https://www.alignmentforum.org/posts/beREnXhBnzxbJtr8k/mech-interp-is-not-pre-paradigmatic)
+
+> Takes a Kuhnian angle on the claim that MechInterp is pre-paradigmatic and argues that MechInterp is instead has been doing Normal Science at some times and been in Crisis at others. In particular the Normal Science regimes have been the CNC paradigm which was adopted from Neuroscience and the Sparse Representations paradigm which was spurred by the SAE paradigm shift in interpretability. Sharkey goes onto suggest that the next paradigm may be founded on understanding Computations through Parameter Decomposition methods (like [SPD](https://arxiv.org/abs/2506.20790)). A grounded history of the science of Mechanistic Interpretability which can help us understand how to understand previous progress and how the field can develop further.
+
 **The Urgency of Interpretability, Anthropic: Amodei (2025)**
 [html](https://www.darioamodei.com/post/the-urgency-of-interpretability)
 
 > Provides a(n opinionated) history of interpretability and gives a moral case for why interpretability is required from the CEO of one of the frontier AI labs.
 
-<!-- 🌟 Sparsify (Sharkey), Understanding as compression (Wilkenfeld), MechInterp Needs Phil, 🌟 MechInterp is not pre-paradigmatic, Natural Kinds, Platonic Representation Hypothesis -->
+**Sparsify, Apollo: Sharkey (2024)**
+🌟 [html](https://www.alignmentforum.org/posts/64MizJXzyvrYpeKqm/sparsify-a-mechanistic-interpretability-research-agenda)
+
+> A clear articulation of some of the core assumptions, hypotheses and methods of interpretability and how they fit together to form an MechInterp agenda towards solving interpretability. This agenda is ambitious and I take it to be the central agenda pursued by a plurality of interpretability researchers. Very clarifying. Especially good to clarify that the semantic explanation stage is a vital part of interpretability rather than an afterthought.
+
+<!-- Understanding as compression (Wilkenfeld), MechInterp Needs Phil, Natural Kinds, Platonic Representation Hypothesis -->
 
 <br>
 
