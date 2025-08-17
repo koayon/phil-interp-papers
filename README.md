@@ -216,7 +216,10 @@ Everything, everywhere, all at once: Is mechanistic interpretability identifiabl
 > A core component of this project is "Concept Enrichment": humans learning new concepts (neologisms)
 > by interacting with the internals of AI systems.
 
-<!-- 🌟 Chess (Schut et al) -->
+🌟 **Bridging The Human-AI Knowledge Gap in AlphaZero, DeepMind: Schut et al (2023)**
+[pdf](https://arxiv.org/pdf/2310.16410)
+
+> A generational paper. In some narrow domains AIs are both superhuman and trained without human knowledge. This is the case in AlphaZero. It turns out that some of the strategies that AlphaZero learned are familiar to human experts, but others are creative "non-human" stratgies (like Move 37) which are not understood by humans. The authors ask: could we find and isolate such examples using the internals of the model and teach humans to understand the strategies such that they could use them to improve their gameplay? They find that yes, humans can learn these AlphaZero learned strategies. We can think of this as a proxy for superhuman interpretability - with AIs that are human-level or greater they will understand concepts that humans don't - are we still able to understand them and what will this take?
 
 ## Neuroscience and Cognitive Science
 
