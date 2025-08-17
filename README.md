@@ -92,8 +92,23 @@ others in the community would benefit from 🤗
 
 ## Philosophy of Explanations
 
-<!-- 🌟 SEP, Craver book, 🌟 Explanation: A mechanist alternative. etc.
-What good is an explanation? (Lipton) -->
+🌟 **SEP on Explanations, SEP: Woodward & Ross (2021/2023)**
+[website](https://plato.stanford.edu/entries/scientific-explanation/),
+[website](https://plato.stanford.edu/entries/causal-explanation-science/)
+
+> Two SEP articles on Scientific Explanations and Causal Explanations (the kind of explanation that we seek in Mechanistic Interpretability). These are great primers on the core concepts of explanations. Given that the project of Mechanistic Interpretability is to produce explanations of neural networks, knowing the target is about understanding explanations.
+
+**What Good Is An Explanation, Cambridge: Lipton (2021)**
+[pdf](https://www.hps.cam.ac.uk/files/lipton-what-good.pdf)
+
+> A wonderful paper about explanation, the types of explanations and how explanations lead to understanding. Less directly applicable to MechInterp but generally valuable.
+
+**Explanation: A mechanist alternative, Bechtel & Abrahamsen (2005)**
+[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1369848605000269)
+
+> An exposition of (Causal-)Mechanistic Explanations focusing on Biology and contrasting to earlier nomological approaches to explanation within the Philosophy of Science.
+
+<!-- Craver book. etc. -->
 
 ## General Philosophy of Science
 
