@@ -57,6 +57,7 @@ others in the community would benefit from 🤗
 > Philosophy of Mind heavyweight David Chalmers lays out a research agenda for interpretability inspired by Psychosemantics and Radical Interpretation. He argues that a goal of interpretability should be to provide a thought log which contains a series of statements which can be understood as Propositional Attitudes - that is attitudes that the AI system holds towards propositional statements expressed in natural language.
 
 <!-- Explaining AI through mechanistic interpretability (Crook) -->
+<!-- Matt Farr paper -->
 
 ## Philosophy of pre-Mechanistic Interpretability
 
@@ -65,8 +66,15 @@ others in the community would benefit from 🤗
 
 > An early attempt to understand how the opacity problem in deep learning models affects the way that we seek explanations of them and how interpretable AI might function.
 
-<!-- Towards a rigorous science of interpretable machine learning (Kim),
-Towards falsifiable interpretability research, -->
+**Towards A Rigorous Science of Interpretable ML, Google: Doshi-Velez & Kim (2016)**
+[pdf](https://arxiv.org/pdf/1702.08608)
+
+> Discusses early waves of interpretability research and providing a taxonomy for the evaluation of interpretability - they see interpretability as a domain that is primarily evaluated based on pragmatic applications in task contexts. They also lay out (at the time) Open Problems in Interpretability Science, Theory and Practise.
+
+**Towards falsifiable interpretability research, FAIR: Leavitt & Morcos (2020)**
+[pdf](https://arxiv.org/pdf/2010.12016)
+
+> Surveys the problems of saliency maps and single neuron based methods and concludes that the problem was that the hypotheses being tested were not sufficiently falsifiable. They set out a framework for strongly falsifiable interpretability research, mostly in the form of how to structure highly specific hypotheses to stop researchers from fooling themselves.
 
 ## Non-Mechanistic Interpretability Paradigms
 
