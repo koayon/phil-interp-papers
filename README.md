@@ -5,27 +5,30 @@ A curated reading list for researchers in the Philosophy of Interpretability.
 ## Contents
 
 - [Contents](#contents)
-- [About](#about)
-- [Philosophy of Mechanistic Interpretability](#philosophy-of-mechanistic-interpretability)
-- [Philosophy of pre-Mechanistic Interpretability](#philosophy-of-pre-mechanistic-interpretability)
-- [Non-Mechanistic Interpretability Paradigms](#non-mechanistic-interpretability-paradigms)
-- [Philosophy of Explanations](#philosophy-of-explanations)
-- [General Philosophy of Science](#general-philosophy-of-science)
-- [Core Interpretability](#core-interpretability)
-- [Evaluating Explanations](#evaluating-explanations)
-- [Interpreting Representations](#interpreting-representations)
-- [Interpreting Computations](#interpreting-computations)
-- [Causal Abstractions](#causal-abstractions)
-- [Limits of Interpretability](#limits-of-interpretability)
-- [Information Theory and Complexity Theory](#information-theory-and-complexity-theory)
-- [Singular Learning Theory](#singular-learning-theory)
-- [Human Studies in Interpretability](#human-studies-in-interpretability)
-- [Neuroscience and Cognitive Science](#neuroscience-and-cognitive-science)
+  - [About](#about)
+- [Philosophy](#philosophy)
+  - [Philosophy of Mechanistic Interpretability](#philosophy-of-mechanistic-interpretability)
+  - [Philosophy of pre-Mechanistic Interpretability](#philosophy-of-pre-mechanistic-interpretability)
+  - [Non-Mechanistic Interpretability Paradigms](#non-mechanistic-interpretability-paradigms)
+  - [Philosophy of Explanations](#philosophy-of-explanations)
+  - [General Philosophy of Science](#general-philosophy-of-science)
+- [Interpretability](#interpretability)
+  - [Core Interpretability](#core-interpretability)
+  - [Evaluating Explanations](#evaluating-explanations)
+  - [Interpreting Representations](#interpreting-representations)
+  - [Interpreting Computations](#interpreting-computations)
+  - [Limits of Interpretability](#limits-of-interpretability)
+- [Other Disciplines](#other-disciplines)
+  - [Causal Abstractions](#causal-abstractions)
+  - [Information Theory and Complexity Theory](#information-theory-and-complexity-theory)
+  - [Singular Learning Theory](#singular-learning-theory)
+  - [Human Studies in Interpretability](#human-studies-in-interpretability)
+  - [Neuroscience and Cognitive Science](#neuroscience-and-cognitive-science)
 - [The Strange Science](#the-strange-science)
 - [Other](#other)
 
 
-## About
+### About
 
 Interpretability is the study of producing scientific explanations of
 artificial neural networks.
@@ -46,7 +49,9 @@ others in the community would benefit from 🤗
 
 <!-- Ordered by topic, then date published -->
 
-## Philosophy of Mechanistic Interpretability
+## Philosophy
+
+### Philosophy of Mechanistic Interpretability
 
 🌟 **Mathematical Philosophy of Explanations in MechInterp, Ayonrinde & Jaburi (2025)**
 [pdf](https://arxiv.org/pdf/2505.00808)
@@ -61,7 +66,7 @@ others in the community would benefit from 🤗
 <!-- Explaining AI through mechanistic interpretability (Crook) -->
 <!-- Matt Farr paper -->
 
-## Philosophy of pre-Mechanistic Interpretability
+### Philosophy of pre-Mechanistic Interpretability
 
 **The Mythos of Model Interpretability, CMU: Lipton (2016)**
 [pdf](https://arxiv.org/abs/1606.03490)
@@ -78,7 +83,7 @@ others in the community would benefit from 🤗
 
 > Surveys the problems of saliency maps and single neuron based methods and concludes that the problem was that the hypotheses being tested were not sufficiently falsifiable. They set out a framework for strongly falsifiable interpretability research, mostly in the form of how to structure highly specific hypotheses to stop researchers from fooling themselves.
 
-## Non-Mechanistic Interpretability Paradigms
+### Non-Mechanistic Interpretability Paradigms
 
 **Representation Engineering, CAIS: Zou et al (2023)**
 [pdf](https://arxiv.org/pdf/2310.01405)
@@ -92,7 +97,7 @@ others in the community would benefit from 🤗
 
 <!-- CoT Interp... -->
 
-## Philosophy of Explanations
+### Philosophy of Explanations
 
 🌟 **SEP on Explanations, SEP: Woodward & Ross (2021/2023)**
 [website](https://plato.stanford.edu/entries/scientific-explanation/),
@@ -112,7 +117,7 @@ others in the community would benefit from 🤗
 
 <!-- Craver book. etc. -->
 
-## General Philosophy of Science
+### General Philosophy of Science
 
 **Structure of Scientific Revolutions, Kuhn (1962)**
 [pdf](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf)
@@ -128,7 +133,9 @@ others in the community would benefit from 🤗
 
 <!-- Thiel, Zero To One -->
 
-## Core Interpretability
+## Interpretability
+
+### Core Interpretability
 
 🌟 **Mechanistic Interpretability for AI Safety--A Review, Amsterdam: Bereska & Gavves (2024)**
 [pdf](https://arxiv.org/pdf/2404.14082)
@@ -146,7 +153,7 @@ others in the community would benefit from 🤗
 
 <!-- Grokking Modular Arithmetic -->
 
-## Evaluating Explanations
+### Evaluating Explanations
 
 <!-- Compact proofs of model performance via mechanistic interpretability, MIB,
 Hypothesis testing the circuit hypothesis in LLMs. -->
@@ -156,7 +163,7 @@ Hypothesis testing the circuit hypothesis in LLMs. -->
 
 > An application of Theory Choice to explanations in Mechanistic Interpretability from the Bayesian, Kuhnian, Deutschian, and Nomological lenses.
 
-## Interpreting Representations
+### Interpreting Representations
 
 🌟 **Interpretability as compression: (MDL-SAEs), Ayonrinde et al (2024)**
 [pdf](https://arxiv.org/pdf/2410.11179)
@@ -175,7 +182,7 @@ Hypothesis testing the circuit hypothesis in LLMs. -->
 
 <!-- Projecting Assumptions (Demba) -->
 
-## Interpreting Computations
+### Interpreting Computations
 
 🌟 **Stochastic Parameter Decomposition, Goodfire: Bushnaq et al (2025)**
 [pdf](https://arxiv.org/pdf/2506.20790)
@@ -184,16 +191,7 @@ Hypothesis testing the circuit hypothesis in LLMs. -->
 
 <!-- SEP?/MOLT -->
 
-## Causal Abstractions
-
-🌟 **Causal abstraction: A theoretical foundation for mechanistic interpretability, Stanford: Geiger et al (2023)**
-[pdf](https://arxiv.org/pdf/2301.04709)
-
-> The canonical paper which provides the modern Causal Abstractions foundation for Mechanistic Interpretability. This theory is usefully in the background of most interpretability work.
-
-<!-- Pearl (Causality), Lewis? -->
-
-## Limits of Interpretability
+### Limits of Interpretability
 
 **The computational complexity of circuit discovery for inner interpretability, Adolfi et al (2025)**
 [pdf](https://arxiv.org/pdf/2410.08025)
@@ -204,20 +202,31 @@ Hypothesis testing the circuit hypothesis in LLMs. -->
 Everything, everywhere, all at once: Is mechanistic interpretability identifiable?
 -->
 
-## Information Theory and Complexity Theory
+## Other Disciplines
+
+### Causal Abstractions
+
+🌟 **Causal abstraction: A theoretical foundation for mechanistic interpretability, Stanford: Geiger et al (2023)**
+[pdf](https://arxiv.org/pdf/2301.04709)
+
+> The canonical paper which provides the modern Causal Abstractions foundation for Mechanistic Interpretability. This theory is usefully in the background of most interpretability work.
+
+<!-- Pearl (Causality), Lewis? -->
+
+### Information Theory and Complexity Theory
 
 See also [MDL-SAEs](https://arxiv.org/pdf/2410.11179)
 
 <!-- Classic texts, Nora's paper -->
 
-## Singular Learning Theory
+### Singular Learning Theory
 
 **You Are What You Eat, Timaeus: Lehalleur et al (2025)**
 [pdf](https://arxiv.org/pdf/2502.05475)
 
 > The authors argue that core to interpretability is understanding how structure in the data distribution leads to structure in the models and how such structure gives rise to the generalisation power of neural networks.
 
-## Human Studies in Interpretability
+### Human Studies in Interpretability
 
 **Interpretability is a bidirectional communication problem, UK AISI: Ayonrinde et al (2025)**
 [pdf](https://openreview.net/pdf?id=O4LaRH4zSI)
@@ -232,7 +241,7 @@ See also [MDL-SAEs](https://arxiv.org/pdf/2410.11179)
 
 > A generational paper. In some narrow domains AIs are both superhuman and trained without human knowledge. This is the case in AlphaZero. It turns out that some of the strategies that AlphaZero learned are familiar to human experts, but others are creative "non-human" stratgies (like Move 37) which are not understood by humans. The authors ask: could we find and isolate such examples using the internals of the model and teach humans to understand the strategies such that they could use them to improve their gameplay? They find that yes, humans can learn these AlphaZero learned strategies. We can think of this as a proxy for superhuman interpretability - with AIs that are human-level or greater they will understand concepts that humans don't - are we still able to understand them and what will this take?
 
-## Neuroscience and Cognitive Science
+### Neuroscience and Cognitive Science
 
 <!-- Explanatory models in neuroscience (Cao), Shea, Vision (Marr) -->
 
