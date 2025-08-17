@@ -189,8 +189,12 @@ Hypothesis testing the circuit hypothesis in LLMs -->
 
 ## Limits of Interpretability
 
-<!-- The computational complexity of circuit discovery for inner interpretability,
-An Interpretability Illusion for BERT,
+**The computational complexity of circuit discovery for inner interpretability, Adolfi et al (2025)**
+[pdf](https://arxiv.org/pdf/2410.08025)
+
+> A theoretical paper analysing circuit discovery algorithms like [ACDC](https://arxiv.org/abs/2304.14997). They show that under certain goals for circuit discovery methods, the Circuit Discovery task is computationally expensive such that we cannot expect many algorithms to be optimal. Their formal framework of queries and mechanistic explanations is useful for understanding how to build tractable mechanistic interpretability algorithms.
+
+<!-- An Interpretability Illusion for BERT,
 Everything, everywhere, all at once: Is mechanistic interpretability identifiable?
 -->
 
