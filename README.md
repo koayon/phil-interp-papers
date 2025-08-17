@@ -78,11 +78,21 @@ others in the community would benefit from 🤗
 
 ## Non-Mechanistic Interpretability Paradigms
 
-<!-- RepEng, Agentic Interp, CoT Interp... -->
+**Representation Engineering, CAIS: Zou et al (2023)**
+[pdf](https://arxiv.org/pdf/2310.01405)
+
+> Instead of MechInterp, Representation Engineering takes a macroscopic view of representations and ignores computations. They suggest that this is more tractable in some use cases. They take inspiration from complex systems and argue that MechInterp as traditionally practised may find it difficult to understand emergent phenomena. Though their characterisation of MechInterp seems confused in places, their approach is generally useful and compatible with understanding representations in MechInterp (though we may need to go beyond purely analysing representations to truly understand and intervene on AI models).
+
+**Agentic Interpretability, Google: Kim et al (2025)**
+[pdf](https://arxiv.org/pdf/2506.12152)
+
+> They suggest that LLMs provide a new interaction opportunity for interpretability: instead of an interpretability method which gives a single response to the human, there can be a multi-turn interaction which results in the human understanding the AI system. This is useful because for superhuman (or otherwise non-human) concepts that AIs have, teaching them to humans may require more interaction. They describe their methods as "human-entangled-in-the-loop". A useful framing which neatly solves the problem of the [Informativeness-Compression trade-off](https://link.springer.com/article/10.1007/s43681-025-00733-5) in a similar way as [AI Debate](https://arxiv.org/abs/1805.00899) by pruning down the tree to cruxes. See also [here](https://openreview.net/pdf?id=O4LaRH4zSI)
+
+<!-- CoT Interp... -->
 
 ## Philosophy of Explanations
 
-<!-- 🌟 SEP, Craver, 🌟 Explanation: A mechanist alternative. etc.
+<!-- 🌟 SEP, Craver book, 🌟 Explanation: A mechanist alternative. etc.
 What good is an explanation? (Lipton) -->
 
 ## General Philosophy of Science
@@ -103,7 +113,7 @@ What good is an explanation? (Lipton) -->
 
 <!-- Mathematical Framework of Transformer Circuits -->
 
-<!-- Toy Models of Superposition, Biology of LLMs -->
+<!-- Toy Models of Superposition, 🌟 Biology of LLMs -->
 
 <!-- Grokking Modular Arithmetic -->
 
@@ -134,7 +144,7 @@ Hypothesis testing the circuit hypothesis in LLMs -->
 
 ## Interpreting Computations
 
-<!-- APD/🌟SPD/SEP? -->
+<!-- 🌟SPD (see also APD)/SEP?/MOLT -->
 
 ## Causal Abstractions
 
@@ -143,7 +153,7 @@ Hypothesis testing the circuit hypothesis in LLMs -->
 
 > The canonical paper which provides the modern Causal Abstractions foundation for Mechanistic Interpretability.
 
-<!-- Pearl, Causality -->
+<!-- Pearl (Causality), Lewis? -->
 
 ## Limits of Interpretability
 
@@ -154,7 +164,11 @@ Everything, everywhere, all at once: Is mechanistic interpretability identifiabl
 
 <!-- ## Information Theory and Complexity Theory -->
 
-<!-- ## SLT -->
+<!-- Classic texts, Nora's paper -->
+
+<!-- ## Singular Learning Theory -->
+
+<!-- Position paper -->
 
 ## Human Studies in Interpretability
 
